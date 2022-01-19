@@ -32,15 +32,16 @@ Goals of Project:
 
 ## Challenge Overview
 
-Explain the purpose of this election audit analysis.
+This analysis was intended to expand the original Colorado election audit to provide information on voter turnout for each country, the percentage of votes from each county out of the total count, and the name of the county with the highest turnout. 
+
 
 ## Election-Audit Results
 
--	How many votes were cast in this congressional election?
--	Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
--	Which county had the largest number of votes?
--	Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
--	Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+-	A total of 369,711 votes were cast in this congressional election.
+-	Denver country received 82.8% of the vote with 306,055 votes; Jefferson country received 10% of the vote with 38,855 votes; Arapahoe country received 6.7% of the vote with 24,801 votes. 
+-	**Denver county** with 306,055 votes had the largest number of votes, attributing to nearly 83% of the total votes in this congressional election. 
+-	Diana DeGette received 73.8% of the vote with 272,892 votes; Charles Casper Stockham received 23.0% of the vote with 85,213 votes; Raymon Anthony Doane received 3.1% of the vote with 11,606 votes.
+-	Overall, **Diana DeGette** won the election with 272,892 votes attributing to nearly 74% of all the votes in this congressional election. 
 
 
 ## Challenge Summary
